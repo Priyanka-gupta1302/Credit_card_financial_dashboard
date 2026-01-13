@@ -23,7 +23,7 @@ It helps stakeholders understand which customer segments and transaction types c
 
 This dashboard focuses on customer-level analysis.
 
-Key Insights:
+▶ Key Insights:
 
 • Revenue distribution by:
 
@@ -59,7 +59,7 @@ Key Insights:
 
 This dashboard highlights transaction-based analysis.
 
-Key Insights:
+▶ Key Insights:
 
 • Quarterly revenue and transaction count trends
 
@@ -77,7 +77,7 @@ Expenditure type (Bills, Fuel, Grocery, Travel, etc.)
 
 • Card-wise performance comparison
 
-KPIs Displayed:
+▶ KPIs Displayed:
 
 • Total Revenue
 
