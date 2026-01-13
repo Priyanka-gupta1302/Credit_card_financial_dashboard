@@ -125,9 +125,9 @@ The project uses two main datasets:
 
 • Implement machine learning models for spending prediction
 
-Include real-time data integration
+• Include real-time data integration
 
-Improve dashboard with drill-through and tooltips
+• Improve dashboard with drill-through and tooltips
 
 
 
