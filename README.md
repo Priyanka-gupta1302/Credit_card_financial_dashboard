@@ -7,52 +7,53 @@ It helps stakeholders understand which customer segments and transaction types c
 
 🎯 Objectives
 
-Analyze customer demographics and their impact on revenue
+• Analyze customer demographics and their impact on revenue
 
-Study transaction trends across quarters and categories
+• Study transaction trends across quarters and categories
 
-Identify top-performing customer segments
+• Identify top-performing customer segments
 
-Track revenue, interest earned, and transaction counts
+• Track revenue, interest earned, and transaction counts
 
-Provide a clear visualization for business and financial insights
+• Provide a clear visualization for business and financial insights
 
-📊 Dashboards Included
+📊 Dashboards Included in above links 
+
 1️⃣ Credit Card Customer Report
 
 This dashboard focuses on customer-level analysis.
 
 Key Insights:
 
-Revenue distribution by:
+• Revenue distribution by:
 
-Income group (High, Medium, Low)
+• Income group (High, Medium, Low)
 
-Age group
+• Age group
 
-Gender
+• Gender
 
-Education level
+• Education level
 
-Marital status
+• Marital status
 
-Occupation
+• Occupation
 
-Revenue trends by week and quarter
+• Revenue trends by week and quarter
 
-Top-performing states
+• Top-performing states
 
-Comparison across card categories (Blue, Silver, Gold, Platinum)
+• Comparison across card categories (Blue, Silver, Gold, Platinum)
 
-KPIs Displayed:
+▶ KPIs Displayed:
 
-Total Revenue
+• Total Revenue
 
-Total Income
+• Total Income
 
-Total Interest Earned
+• Total Interest Earned
 
-Customer Satisfaction Score (CSS)
+• Customer Satisfaction Score (CSS)
 
 2️⃣ Credit Card Transaction Report
 
@@ -60,69 +61,69 @@ This dashboard highlights transaction-based analysis.
 
 Key Insights:
 
-Quarterly revenue and transaction count trends
+• Quarterly revenue and transaction count trends
 
-Revenue by:
+• Revenue by:
 
 Expenditure type (Bills, Fuel, Grocery, Travel, etc.)
 
-Card category
+• Card category
 
-Customer job
+• Customer job
 
-Education level
+• Education level
 
-Transaction mode (Swipe, Chip, Online)
+• Transaction mode (Swipe, Chip, Online)
 
-Card-wise performance comparison
+• Card-wise performance comparison
 
 KPIs Displayed:
 
-Total Revenue
+• Total Revenue
 
-Total Transaction Amount
+• Total Transaction Amount
 
-Total Interest Earned
+• Total Interest Earned
 
-Total Transaction Count
+• Total Transaction Count
 
 🛠 Tools & Technologies Used
 
-Power BI Desktop
+• Power BI Desktop
 
-Data Modeling
+• Data Modeling
 
-DAX (Data Analysis Expressions)
+• DAX (Data Analysis Expressions)
 
-Data Visualization Techniques
+• Data Visualization Techniques
 
 📂 Dataset Description
 
 The project uses two main datasets:
 
-Customer Data – demographic details, income, job type, card category
+• Customer Data – demographic details, income, job type, card category
 
-Transaction Data – transaction amount, type, quarter, interest earned
+• Transaction Data – transaction amount, type, quarter, interest earned
 
 📌 The datasets are used only for educational and analytical purposes.
 
 📈 Key Business Insights
 
-Blue card holders generate the highest revenue
+• Blue card holders generate the highest revenue
 
-Businessmen and white-collar professionals are top revenue contributors
+• Businessmen and white-collar professionals are top revenue contributors
 
-Swipe transactions dominate over chip and online modes
+• Swipe transactions dominate over chip and online modes
 
-Grocery, bills, and fuel are the highest revenue expenditure categories
+• Grocery, bills, and fuel are the highest revenue expenditure categories
 
-Revenue remains relatively stable across all quarters
+• Revenue remains relatively stable across all quarters
 
 🚀 Future Enhancements
 
-Add predictive analysis for customer churn
+• Add predictive analysis for customer churn
 
-Implement machine learning models for spending prediction
+• Implement machine learning models for spending prediction
 
 Include real-time data integration
 
